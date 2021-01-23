@@ -1,5 +1,5 @@
 # Submission 1 Dicoding Belajar Fundamental Aplikasi Android (KOTLIN)
-# Perhatian !!!
+# Warning !!!
 
 
 This repository is only used as a <b>reference</b> for the Dicoding class <a href="https://www.dicoding.com/academies/14">Belajar Fundamental Aplikasi Android</a> 
